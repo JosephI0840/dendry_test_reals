@@ -1,11 +1,13 @@
-title: Root Scene
+title: Start
 new-page: true
 
-This is the root scene of "Dendry-starter-pack". The root scene is normally used
-as a hub: the choices allow you to go to different sections of your
-story. In shorter works it may just function as the first scene in the
-game, sending the player off into the tree of choices. If the root
-scene doesn't have any choices that it can display, the game is over.
+You are a 16 year old living in Dundee, you moved here when you were ten from Hong Kong with your parents. You have acceptably good relations with your parents and would not mind living with them.
+
+Luckily, with your limited social skills, you have still been able to make friends, be it from school, church, or all the extracurricular clubs you have participated.
+
+It is currently October, after a serious burnout session, you cannot wait to get the SYP stuff out of the way. But for now, you would have to finish its duties first.
+
+Tomorrow, you would go on a hike with your friend Scott and your not-as-close friend Lachlan. You look forward to the hike.
 
 # Scenes with a top tag can be displayed here.
 - #top
