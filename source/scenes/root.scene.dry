@@ -1,13 +1,25 @@
 title: Start
 new-page: true
 
-You are a 16 year old living in Dundee, you moved here when you were ten from Hong Kong with your parents. You have acceptably good relations with your parents and would not mind living with them.
+You woke up in a white, plain concrete room without any distinguishing features. The air permeates a stench of recently-dragged concrete. 
 
-Luckily, with your limited social skills, you have still been able to make friends, be it from school, church, or all the extracurricular clubs you have participated.
+You don't remember why you got here in the first place, in fact, you don't even remember who you are, what you were like and all your past experiences.
 
-It is currently October, after a serious burnout session, you cannot wait to get the SYP stuff out of the way. But for now, you would have to finish its duties first.
+- @check-surroundings: You decide to inspect the room.
 
-Tomorrow, you would go on a hike with your friend Scott and your not-as-close friend Lachlan. You look forward to the hike.
+@check-surroundings
 
-# Scenes with a top tag can be displayed here.
-- @one: Great...?
+There seems to be a very discreet white door which you have not noticed beforehand. Beyond the white door a lack of temperature seeps through the gaps. The door does not seemed to be locked and is merely standing there because no external horizontal forces have acted upon it as of yet.
+
+-@question: Is it even a door if it is not hinged on either side?
+
+@question
+
+This is besides the point.
+
+You could now make the decision on whether to go through the door or not. (What else could you do anyways?)
+
+-@hallway: You pushed the door open
+-@stay: You decided to stay for a little longer
+
+
